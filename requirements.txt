@@ -1,0 +1,6 @@
+# In a cloud platform ou get a blank system here are libraries  you require to 
+# do this project
+Flask == 1.1.2
+gunicorn
+requests
+# give the latest version or give blank name both are valid ways
